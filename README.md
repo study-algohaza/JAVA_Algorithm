@@ -10,3 +10,4 @@
 ## 문제들들들
 1. [김범진] 10818 최소,최대 https://www.acmicpc.net/problem/10818
 2. [김의찬] 1546 평균 https://www.acmicpc.net/problem/1546
+3. [임세현] 4344 평균 https://www.acmicpc.net/problem/4344
