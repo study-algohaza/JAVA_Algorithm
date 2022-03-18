@@ -1,4 +1,4 @@
-package 문자열;
+package 첫번째주;
 
 import java.io.BufferedReader;
 import java.io.IOException;
