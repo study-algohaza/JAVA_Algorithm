@@ -13,3 +13,4 @@
 3. [임세현] 4344 평균은 넘겠지 https://www.acmicpc.net/problem/4344
 4. [김범진] 1157 단어 공부 https://www.acmicpc.net/problem/1157
 5. [김의찬] 10828 스택 https://www.acmicpc.net/problem/10828
+6. [임세현] 11650 좌표 정렬하기 https://www.acmicpc.net/problem/11650
