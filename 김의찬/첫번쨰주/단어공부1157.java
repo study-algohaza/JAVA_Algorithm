@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class 단어공부1157 {
     public static void main(String[] args) {
+        long start = System.currentTimeMillis();
         Scanner in = new Scanner(System.in);
         int[] alpaBukkit = new int[26]; //알파벳 수만큼 배열 생성 및 0으로 초기화
         char[] word = in.next().toUpperCase().toCharArray();// 단어를 받을때 대문자로 바꾸고 char 형태로 쪼개서 배열에 저장
@@ -21,5 +22,7 @@ public class 단어공부1157 {
         }
 
         System.out.println(mostUsedAlpa);
+        long end = System.currentTimeMillis();
+        System.out.println(end - start);
     }
 }
