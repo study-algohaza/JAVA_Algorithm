@@ -16,4 +16,4 @@
 6. [임세현] 11650 좌표 정렬하기 https://www.acmicpc.net/problem/11650
 7. [김범진] 1181 단어 정렬 https://www.acmicpc.net/problem/1181
 8. [김의찬] 1260 DFS와 BFS https://www.acmicpc.net/problem/1260
-9. [임세햔] 10845 큐 https://www.acmicpc.net/problem/10845
+9. [임세현] 10845 큐 https://www.acmicpc.net/problem/10845
